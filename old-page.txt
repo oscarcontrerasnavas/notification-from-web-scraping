@@ -1,0 +1,4496 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+  <base href="http://portal.senasofiaplus.edu.co/index.php/cronograma" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Portal SOFIA Plus, Manuales, Calendario de Oferta, Procesos, SENA, Sistema Optimizado para el Apendizaje Activo, SENA" />
+  <meta name="description" content="El Portal SOFIA Plus es el lugar indicado para encontrar toda la informaci�n relacionada con el aplicativo SOFIA Plus y el SENA." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Cronograma 2020 - Portal SOFIA Plus - SENA</title>
+  <link href="/templates/sofia_portalr4/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximun-scale=1" />
+
+<script src="/templates/sofia_portalr4/js/jquery.js"></script>
+
+<script src="/templates/sofia_portalr4/js/jquery_002.js"></script>
+
+<script src="/templates/sofia_portalr4/js/slides.js"></script>
+
+<script type="text/javascript">
+
+    $(function(){
+
+      $('#slides').slides({
+
+        preload: true,
+
+        preloadImage: 'http://portal.senasofiaplus.edu.co/templates/sofia_portalr4/img/loading.gif',
+
+        play: 5000,
+
+        pause: 2500,
+
+        hoverPause: true
+
+      });
+
+    });
+
+</script>
+
+<script src="/templates/sofia_portalr4/js/sofia.js"></script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+
+<link rel="stylesheet" href="/templates/sofia_portalr4/css/modal.css" type="text/css" />
+
+<link rel="stylesheet" href="/templates/sofia_portalr4/css/sofia_general.css" type="text/css" />
+
+<link rel="stylesheet" href="/templates/sofia_portalr4/css/sofia_portal.css" type="text/css" />
+
+<!--[if IE]>
+
+<link rel="stylesheet" href="/templates/sofia_portalr4/css/sofia_ie.css" type="text/css" />
+
+<![endif]-->
+
+
+
+</head>
+
+
+
+<body>
+
+<div class="header" id="header">
+
+  <div class="container">
+
+    <div class="logo" style="cursor:pointer" onclick="document.location.href='http://oferta.senasofiaplus.edu.co/'"></div>
+
+    <div class="logos">
+
+      <div class="mintrabajo"></div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<ul class="nav nav-tabs nav-justified">
+
+  <li><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html" class="selected">Inicio</a></li>
+
+  <li><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html">Buscar oferta</a></li>
+
+  <li><a href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Presentar pruebas de selecci�n</a></li>
+
+  <li><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html">Certificados</a></li>
+
+  <li><a href="http://portal.senasofiaplus.edu.co">Ayuda y soporte</a></li>
+
+</ul>
+
+<ul class="navegacion_menu_sub">
+
+  <!-- 1. Navegaci�n -->
+
+  		<div class="moduletable_menu">
+					
+<ul class="menu">
+<li class="item-100001"><a href="/" >Portal</a></li><li class="item-193 current active parent"><a href="/index.php/cronograma" >Cronograma 2020</a></li><li class="item-168 parent"><a href="/index.php/ayudas" >Ayudas y Manuales</a></li><li class="item-245"><a href="/index.php/boletin-informativo" >Bolet�n informativo</a></li><li class="item-234"><a href="/index.php/novedades" >Noticias</a></li><li class="item-251 parent"><a href="/index.php/seguridad" >Seguridad</a></li></ul>
+		</div>
+	
+
+  <!-- Fin 1 -->
+
+</ul>
+
+<div class="container">
+
+  <div id="migas">
+
+    <ul>
+
+      <!-- 2. Migas -->
+
+            		<div class="moduletable">
+					<ul>
+
+<!--
+
+<li><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html">Inicio</a></li>
+
+<li><a href="http://portal.senasofiaplus.edu.co">Ayuda y Soporte</a></li>
+
+-->
+
+<li><a href="/">Inicio</a></li><li>Cronograma 2020</li></ul>
+
+		</div>
+	
+
+            <!-- Fin 2 -->
+
+    </ul>
+
+  </div>
+
+  <!-- 3. T�tulo en p�ginas internas -->
+
+    <!-- Fin 3 -->
+
+  
+
+  
+
+    
+
+    <!-- INTERNO --> 
+
+    <!-- 4. Submenu interno -->
+
+        <!-- Fin 4 --> 
+
+    <!-- 5. Cuerpo texto interno -->
+
+    <div id="cuerpo-i">
+
+      
+<div id="system-message-container">
+</div>
+
+      <div class="item-page">
+
+	<h2>
+			Fechas importantes		</h2>
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/cronograma?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>			</li>
+		
+		
+		
+	
+	</ul>
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">I Convocatoria 2020 Modalidad Virtual</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>12 de marzo</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad virtual</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>13 al 26 de Marzo</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>30 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>31 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>1 de Abril</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>2 de Abril</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos el d�a 03 de Abril hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Del 15 al 30 de Abril</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">4 de Mayo</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">III Convocatoria 2020 Modalidad Presencial y a Distancia</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>17 de febrero de 2020</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>18 al 25 de febrero de 2020</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>18 al 25 de febrero de 2020</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>2 de marzo de 2020</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4 </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>3 de marzo de 2020</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>4 de marzo de 2020</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>5 de marzo de 2020</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos el d�a 6 de marzo a los aspirantes que estan participando en la convocatoria.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>11 y 12 de marzo de 2020</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Del 13 al 21 de marzo de 2020</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>24 de marzo de 2020</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedar� en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+<td valign="top"><b>Curso Introductorio</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 7 al 24 de marzo de 2020</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n y programaci�n del curso introductorio a la formaci�n profesional del Sena a los aspirante seleccionados</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 25 de marzo al 8 de abril de 2020</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a matricula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">13 de abril de 2020</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">I Convocatoria 2020 Modalidad Presencial y a Distancia</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>24 de Octubre</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>25 octubre al 4 de Noviembre</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>25 octubre al 4 de Noviembre</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>8 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>12 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>13 de Noviembre</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>14 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos los d�as 14 de Noviembre de 2019 a los aspirantes que estan participando en la convocatoria.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>20 y 21 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 22 Noviembre al 7 de Diciembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>9 de Diciembre</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 10 de Diciembre al 25 de Enero 2020</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">27 de Enero</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">III Convocatoria 2019 Modalidad Virtual</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>12 de Septiembre</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad virtual</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>13 al 22 de Septiembre</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>25 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>26 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>27 de Septiembre</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>30 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos el d�a 01 de Octubre hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Del 7 al 21 de Octubre</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">22 de Octubre</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">IV Convocatoria 2019 Modalidad Presencial</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>8 de Agosto</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>9 al 19 de Agosto</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>9 al 19 de Agosto</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>23 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>26 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>27 de Agosto</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>28 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos los d�as 29 y 30 de Agosto de 2019 a los aspirantes que estan participando en la convocatoria.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>4 al 5 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 6 al 13 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>14 de Septiembre</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 16 de Septiembre al 5 de Octubre</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">7 de Octubre</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">II Convocatoria 2019 Modalidad Virtual</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>11 de Julio</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad virtual</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>12 al 21 de Julio</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>24 de Julio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>25 de Julio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>26 de Julio</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>29 de Julio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos los dias 30 y 31 de Julio hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Del 6 al 24 de Agosto</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">27 de Agosto</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">III Convocatoria 2019 Modalidad Presencial</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>16 de Mayo</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>17 al 26 de Mayo</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>17 al 26 de Mayo</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>30 de Mayo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>31 de Mayo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>04 de Junio</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>05 de Junio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos desde el 04 al 05 de Junio hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>11 al 12 de Junio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 13 al 26 de Junio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>27 de Junio</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� en cada centro de formaci�n y m�ximo hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 28 de Junio al 19 de Julio</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">22 de Julio</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">I Convocatoria 2019 Modalidad Virtual</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>14 de Marzo</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad virtual</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>15 al 25 de Marzo</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>28 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>29 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>01 de Abril</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>02 de Abril</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos desde el 03 al 04 de Abril hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Del 3 al 17 de Mayo</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">21 de Mayo</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">II Convocatoria 2019 Modalidad Presencial</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>14 de Febrero</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>15 al 24 de Febrero</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>15 al 24 de Febrero</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>28 de Febrero</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>01 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>04 de Marzo</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>05 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos desde el 04 al 05 de Marzo hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>09 al 12 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 13 al 27 de Marzo</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>28 de Marzo</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� en cada centro de formaci�n y maximo hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 29 de Marzo al 20 de Abril</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">22 de Abril</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">I Convocatoria Agro 2019 Modalidad Presencial</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>11 de Diciembre</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>17 al al 31  de Enero</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>14 al 18 de Enero</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>31 de Enero</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>01 de Febrero</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>04 al 05 de Febrero</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>06 al 07 de Febrero</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos desde el 04 al 07 de Febrero hasta las 17:00 HORAS.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>13 y 14 de Febrero</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 15 al 18 de Febrero</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>19 de Febrero</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� en cada centro de formaci�n y maximo hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 20 al 22 de Febrero</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">25 de Febrero</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">I Convocatoria 2019 Modalidad Presencial y a Distancia</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>25 de Octubre</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>26 de Octubre al 5 de Noviembre</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>26 de Octubre al 5 de Noviembre</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>9 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>13 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>14 de Noviembre</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>15 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos los d�as 14 y 15 de Noviembre a los aspirantes que estan participando en la convocatoria.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>21 y 22 de Noviembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 23 de Noviembre al 6 de Diciembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>7 de Diciembre</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso.</td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 10 de Diciembre hasta el 2 de Febrero de 2019</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">4 de Febrero 2019</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+<!--
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">III Convocatoria Virtual 2018 </b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>12 de Septiembre</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>14 al 23 de Septiembre</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="https://senaintro.blackboard.com/webapps/portal/execute/tabs/tabAction?tabId=_1498213_1">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>26 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>27 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>28 de Septiembre</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>01 de Octubre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos de los aspirantes que estan participando en la convocatoria el 02 de Octubre hasta las 17:00 horas.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+         <td valign="top"></td>
+
+      <td>
+
+
+
+
+
+
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>08 de Octubre</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 09  al 20 de Octubre</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">23 de Octubre</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">IV Convocatoria 2018 Modalidad Presencial y a Distancia</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>09 de Agosto</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada modalidad presencial</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>10 al 20 de Agosto</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">Charlas informativas en cada centro</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>10 al 20 de Agosto</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>24 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>27 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>28 de Agosto</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>29 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos los d�as 28 y 29 de Agosto a los aspirantes que estan participando en la convocatoria.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>3 y 4 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>Desde 5 al 14 de Septiembre</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>15 de Septiembre</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Cualquier reclamaci�n con respecto al puntaje de la segunda fase se atender� hasta tres d�as despu�s de publicados los resultados en la plataforma, de lo contrario la calificaci�n quedara en firme y no proceder� ning�n recurso. </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 17  al 29 de Septiembre</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">1 de Octubre</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+
+
+<p>Tenga en cuenta las fechas del cronograma para la <b style="font-size:18px">II Convocatoria Virtual a Nivel Nacional 2018</b> de programas de formaci�n del SENA.<br>
+
+  <br>
+
+</p>
+
+
+
+<table cellspacing="0" cellpadding="8" border="0" style="width: 100%;">
+
+  <tbody>
+
+    <tr>
+
+      <td width="23%" valign="top"><b>PUBLICACI�N OFERTA E INSCRIPCIONES</b>:</td>
+
+      <td width="72%"><table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>12 de Julio</strong></td>
+
+              <td valign="top" style="font-size:16px" bgcolor="#EAF0F0">Publicaci�n oferta  programas de formaci�n titulada</td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+            <table cellspacing="0" cellpadding="6" border="0" class="tabla_content p57" style="width: 100%;">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" valign="top" bgcolor="#EAF0F0"><strong>13 al 22 de Julio</strong></td>
+
+              <td valign="top" bgcolor="#EAF0F0" style="font-size:16px">
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">  Inscripciones por la p�gina Web </a>
+
+              </td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+
+
+        <br>
+
+
+
+      </td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>SELECCI�N:</b><br>
+
+      consulta y aplicaci�n de pruebas fase I</td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>25 de Julio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+               <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 0, 1, 2, 3 y 4</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>26 de Julio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Documentos de identidad terminados en 5, 6, 7, 8, y 9</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>27 de Julio</b> </td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 0, 1, 2, 3, 4, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>30 de Julio</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span><a  style="color:#009688; text-decoration:none;" href="http://seleccion.senasofiaplus.edu.co/sofia-evaluacion/evaluaciones.html">Reprogramaci�n de pruebas, documentos terminados en 5,6,7,8,9, hasta las 17:00 horas</a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        <strong>Nota:</strong> Solamente se atienden las quejas y reclamos de los aspirantes que estan participando en la convocatoria el 31 de Julio hasta las 17:00 horas.</td>
+
+    </tr>
+
+
+
+      <tr>
+
+      <td valign="top"><strong>SELECCI�N FASE II:</strong></td>
+
+      <td>
+
+
+
+      <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>03 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Consulta Citaci�n a segunda prueba en la plataforma SOFIA Plus que es el medio oficial. </span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><b>04 de Agosto</b></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>Aplicaci�n prueba web controlada y/o taller</span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#D4E2E2"><strong>06 de Agosto</strong></td>
+
+              <td valign="top" bgcolor="#D4E2E2" style="font-size:16px"><span>
+
+              <a  style="color:#009688; text-decoration:none;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Consulta aspirantes seleccionados </a></span></td>
+
+            </tr>
+
+          </tbody>
+
+        </table>
+
+
+
+        <br>
+
+        </td>
+
+    </tr>
+
+
+
+
+
+    <tr>
+
+
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>MATR�CULA</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#A7C5C3"><b>Desde el 08 al 25 de Agosto</b></td>
+
+              <td bgcolor="#A7C5C3" style="font-size:16px">Citaci�n a Matr�cula<br>
+
+                Entrega y verificaci�n de documentos</td>
+
+            </tr>
+
+          </tbody>
+
+        </table><br></td>
+
+    </tr>
+
+    <tr>
+
+      <td valign="top"><b>INICIO FORMACI�N</b>:</td>
+
+      <td><table cellspacing="0" cellpadding="6" border="0" style="border-left-width: 8px; border-left-style: solid; border-left-color: #008080; line-height: 150%; font-weight: normal; width: 100%;" class="tabla_content">
+
+          <tbody>
+
+            <tr>
+
+              <td width="30%" bgcolor="#92B6B6">28 de Agosto</td>
+
+              <td bgcolor="#92B6B6" style="font-size:16px">Inicio de la formaci�n</td>
+
+            </tr>
+
+          </tbody>
+
+        </table></td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+<br>
+
+<br>
+
+<br> 
+
+
+
+
+
+	
+</div>
+
+
+    </div>
+
+    <!-- Fin 5 --> 
+
+    
+
+    <!-- 6. Cuerpo superior del home -->
+
+  <div class="row">
+
+          <!-- Fin 6 --> 
+
+      
+
+    </div>
+
+  </div>
+
+ 
+
+  
+
+  <div class="row">
+
+          
+
+  </div>
+
+ 
+
+  <!-- 7. accesos directos ayudas-->
+
+  <div class="row">
+
+        
+
+        
+
+        
+
+        
+
+ 
+
+  </div>
+
+
+
+  <!-- 7. Cuerpo inferior del home -->
+
+  <div class="row">
+
+             </div>
+
+  </div>
+
+
+
+<!-- Fin 7 -->
+
+
+
+
+
+  <div class="row">
+
+  <div class="footer">
+
+    <div class="container">
+
+      <div class="col-md-6">
+
+        <div class="footer1"> <b>�Necesita m�s informaci�n?</b> <br>
+
+          <div class="phone"></div>
+
+          <div class="contact"> Bogot�: <b>5925555</b> <br>
+
+            Resto del pa�s: <b>018000910270</b> <br>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <hr class="hrfooter">
+
+      <div class="col-md-6">
+
+        <div class="footer2">
+
+<div class="contact"> <b>Horario de atenci�n: </b> Lunes a Viernes 7:00 am a 7:00 pm - S�bados 8:00 am a 1:00 pm<br> Todos los derechos reservados - 2006 / 2014 </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+  
+
+<script type="text/javascript" src="http://portal.senasofiaplus.edu.co/templates/sofia_portalr4/js/modalBox.js"></script> 
+
+<script type="text/javascript">
+
+modalBox.init('a','^modalBox');
+
+</script>
+
+</body>
+
+</html>
+
